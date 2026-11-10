@@ -19,3 +19,4 @@ g++ program.cpp -o program
 ## Execution
 
 ./program
+.\program (on Windows)
